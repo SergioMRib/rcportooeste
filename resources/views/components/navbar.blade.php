@@ -10,9 +10,9 @@
 
         <div class="collapse navbar-collapse flex-grow-1 text-right" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto flex-nowrap text-left">
-            <li class="nav-item active">
+            {{-- <li class="nav-item active">
               <a class="nav-link" href="{{ route('index') }}">Início <span class="sr-only">(current)</span></a>
-            </li>
+            </li> --}}
             <li class="nav-item">
               <a class="nav-link" href="{{ route('about') }}">Sobre nós </a>
             </li>

@@ -7,7 +7,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-xl-9 mx-auto">
-                    <h1 class="mb-5">Porto Oeste</h1>
+                    <h1 class="mb-5">Porto Oeste Sérgio</h1>
                 </div>
             </div>
         </div>
